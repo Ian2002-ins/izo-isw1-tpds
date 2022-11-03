@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-03T18:25:54.635Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="aAgFIzNXpJC5z6p_L_dR" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-03T18:26:21.200Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="zO8Txo0nXJd2CBBm8IKl" version="20.5.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="1872" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IWXjz15hpdKIAv0XJfjp-8" value=":Sistema&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="120" width="100" height="840" as="geometry" />
+          <mxGeometry x="280" y="120" width="100" height="850" as="geometry" />
         </mxCell>
         <mxCell id="IWXjz15hpdKIAv0XJfjp-21" value="Enviar correo con los datos a (avisos@ciudad)" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;entryX=-0.1;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IWXjz15hpdKIAv0XJfjp-8" target="IWXjz15hpdKIAv0XJfjp-55">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IWXjz15hpdKIAv0XJfjp-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="IWXjz15hpdKIAv0XJfjp-8">
-          <mxGeometry x="45" y="80" width="10" height="760" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="770" as="geometry" />
         </mxCell>
         <mxCell id="IWXjz15hpdKIAv0XJfjp-10" value="" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
